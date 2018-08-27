@@ -7,7 +7,7 @@ MongoDB+jade+express的用户认证的例子
 mongoose.connect('mongodb://127.0.0.1/my-website');
 ```
 
-2.通过后台定义schema和model，可以动态地在数据库中创建文档和几何
+2.通过后台定义schema和model，可以动态地在数据库中创建文档和集合
 
 3.因为本应用中要进行表单处理，所以要用到bodyParser中间件；由于还要对用户进行验证，并将信息保留下来，所以还要用到session中间件，它以来Connect中的cookieParser中间件
 
