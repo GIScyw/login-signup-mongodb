@@ -1,0 +1,13 @@
+{
+    "name": "mongoose-example",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "2.5.2"
+    },
+    "devDependencies": {
+        "bson": "^3.0.2",
+        "jade": "^1.11.0",
+        "mime": "^1.6.0",
+        "mongoose": "^4.9.2"
+    }
+}
